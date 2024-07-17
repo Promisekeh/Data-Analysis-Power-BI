@@ -4,7 +4,7 @@ This collection of projects showcases the robust capabilities of Power BI for da
 
 ## **Key Projects**:
 
-### 1. **Titanic Survival Analysis**:
+### [1. **Titanic Survival Analysis**:](https://github.com/Promisekeh/Data-Analysis-Power-BI/blob/main/Titanic%20Data%20Analysis-PBI.pdf)
 
    The Titanic Survival Analysis project utilizes Power BI to explore and analyze the dataset from the Titanic disaster. This project aims to uncover factors that influenced passenger survival rates, providing insights into demographics, ticket class, and other variables that affected survival outcomes.
    
@@ -14,7 +14,7 @@ This collection of projects showcases the robust capabilities of Power BI for da
      - Investigate factors that correlate with survival rates among passengers.
      - Present findings through compelling visualizations to communicate insights effectively.
 #
-### 2. **Customer Shopping Analysis**:
+### [2. **Customer Shopping Analysis**:](https://github.com/Promisekeh/Data-Analysis-Power-BI/blob/main/customer_shopping.pdf)
    
    The Customer Shopping Analysis project utilizes Power BI to analyze customer behaviour and shopping patterns within a retail context. This project aims to derive actionable insights from customer data to improve marketing strategies, optimize product offerings, and enhance overall customer experience.
    
@@ -22,3 +22,5 @@ This collection of projects showcases the robust capabilities of Power BI for da
    - Understand customer behaviour, such as purchase frequency, preferred products, and shopping trends.
    - Analyze product performance to identify top-selling items, slow-moving products, and seasonal trends
    - Segment customers based on demographics, purchasing behaviour, and buying preferences.
+
+### [**3. HR ANALYTICS DASHBOARD**](https://github.com/Promisekeh/Data-Analysis-Power-BI/blob/main/hr_analysis.pdf)
